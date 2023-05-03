@@ -35,7 +35,7 @@
                                     <div class="card-header text-white bg-primary">Input Produk</div>
 
                                     <div class="card-body">
-                                        <span>Input produk anda di sini</span>
+                                        <span>Silahkan Input Produk Anda</span>
                                     </div>
                                     <a href="{{ url('input_produk') }}" class="btn btn-sm text-white btn-info">Input</a>
                                 </div>
@@ -59,7 +59,7 @@
                                     <div class="card-header text-white bg-primary">Input Produk</div>
 
                                     <div class="card-body">
-                                        <span>Input produk anda di sini</span>
+                                        <span>Silahkan Input Produk Anda</span>
                                     </div>
                                     <a href="{{ url('input_produk') }}" class="btn btn-sm text-white btn-info">Input</a>
                                 </div>
